@@ -1,4 +1,4 @@
-Hey! 👋
+Hola! 👋
 Mi nombre es Felipe Ahumada , soy de Santiago de Chile .
 Curso tercer año de Ingenieria en Informáticaen Duoc Uc Plaza Norte
 Actualmente he trabajado programando algunos proyectos los que estan almacenados en  mi git hub (https://github.com/FelipeSTW).
