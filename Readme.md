@@ -5,7 +5,7 @@ Me incluí en este rubro para poder ser un profesional dedicado
 y con vocación, mi meta es ser Director Ejecutivo de proyectos .
 Mi perfil de Linkedin :https://www.linkedin.com/in/felipe-ahumada-3465a6182/
 
-Habilidades y estuidos :
+Habilidades y estudos :
 👁️Html,CSS,Bootstrap
 👨‍💻 Javascript,
 👨‍💻 Node.js
