@@ -14,15 +14,15 @@ Habilidades y estudios :
 👁️Ionic
 
  Repositorios:
- Aqui Encontraras una gran variedad de proyectos que he 
- realizado a lo largo de mi carrera y cursos online.
+ Aquí encontraras una gran variedad de proyectos que he 
+ realizados a lo largo de mi carrera .
  
  Cursos:
- Durante mis tiempo estudiando he realzado cursos de :
+ Durante mi tiempo en este rubro  he realzado cursos de :
  Magento _Administracion e Intalacion. ( certificacion)
  Msagento -Temas.
  Python.
- Introduccion a la programacion .
+ Introducción a la programación .
 
 
 Contacto
