@@ -18,7 +18,7 @@ Habilidades y estudios :
  realizados a lo largo de mi carrera .
  
  Cursos:
- Durante mi tiempo en este rubro  he realzado cursos de :
+ Durante mi tiempo en este rubro  he realizado cursos de :
  Magento _Administracion e Intalacion. ( certificacion)
  Msagento -Temas.
  Python.
