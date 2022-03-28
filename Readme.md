@@ -19,9 +19,9 @@ Habilidades y estuidos :
  
  Cursos:
  Durante mis tiempo estudiando he realzado cursos de :
- Magento _Administracion e Intalacion ( certificacion)
- Msagento -Temas
- Python
+ Magento _Administracion e Intalacion. ( certificacion)
+ Msagento -Temas.
+ Python.
  Introduccion a la programacion .
 
 
