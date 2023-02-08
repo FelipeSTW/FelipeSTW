@@ -7,11 +7,14 @@ Mi perfil de Linkedin es :https://www.linkedin.com/in/felipe-ahumada-3465a6182/
 
 Habilidades y estudios :
 👁️Html,CSS,Bootstrap
-👨‍💻 Javascript,
-👨‍💻 Node.js
-👨‍💻 Phyton,Java
+👨‍💻 Javascript
+👨‍💻 Magento
+👨‍💻 Phyton
 👁️Django
 👁️Ionic
+👁️Power Bi
+👁️Git
+👁️Jira
 
  Repositorios:
  Aquí encontraras una gran variedad de proyectos que he 
