@@ -9,7 +9,6 @@ Habilidades y estudios :
 👁️Html,CSS,Bootstrap
 👨‍💻 Javascript
 👨‍💻 Magento
-👁️Django
 👁️Power Bi
 👁️Git
 👁️Jira
