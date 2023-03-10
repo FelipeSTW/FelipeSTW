@@ -9,9 +9,7 @@ Habilidades y estudios :
 👁️Html,CSS,Bootstrap
 👨‍💻 Javascript
 👨‍💻 Magento
-👨‍💻 Phyton
 👁️Django
-👁️Ionic
 👁️Power Bi
 👁️Git
 👁️Jira
@@ -24,7 +22,7 @@ Habilidades y estudios :
  Durante mi tiempo en este rubro  he realizado cursos de :
  Magento _Administracion e Intalacion. ( certificacion)
  Msagento -Temas.
- Python.
+
  Introducción a la programación .
 
 
