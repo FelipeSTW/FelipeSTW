@@ -1,17 +1,19 @@
 Hola! 👋
 Mi nombre es Felipe Ahumada , soy de Santiago de Chile .
-Actualamente estoy cursando Ingeniería en Informática Duoc UC ,
+Ingenieroen Informático Duoc UC ,
 Me incluí en este rubro para poder ser un profesional dedicado 
 y con vocación, mi meta : ser Director Ejecutivo de proyectos .
 Mi perfil de Linkedin es :https://www.linkedin.com/in/felipe-ahumada-3465a6182/
 
 Habilidades y estudios :
-👁️Html,CSS,Bootstrap
+👁️Html,CSS,Bootstrap,tailwind css
 👨‍💻 Javascript
-👨‍💻 Magento
+👨‍💻 Vue.js
+👨‍💻 React
+👨‍💻 Angular
 👁️Power Bi
-👁️Git
-👁️Jira
+👁️Git,bitbuquet
+👁️Jira,Crm
 
  Repositorios:
  Aquí encontraras una gran variedad de proyectos que he 
