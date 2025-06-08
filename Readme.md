@@ -1,6 +1,6 @@
 Hola! 👋
 Mi nombre es Felipe Ahumada , soy de Santiago de Chile .
-Ingenieroen Informático Duoc UC ,
+Ingeniero en Informático Duoc UC.
 Me incluí en este rubro para poder ser un profesional dedicado 
 y con vocación, mi meta : ser Director Ejecutivo de proyectos .
 Mi perfil de Linkedin es :https://www.linkedin.com/in/felipe-ahumada-3465a6182/
